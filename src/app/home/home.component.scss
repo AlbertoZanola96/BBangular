@@ -1,0 +1,63 @@
+.cnt {
+    background-color: rgba($color: #000000, $alpha: 0.4);
+    width: 100%;
+    height: calc(100vh - 68px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+
+    img{
+        width: 100%;
+        height: calc(100vh - 68px);
+
+        filter: blur(5px);  
+        position: fixed;
+        z-index: 12;
+
+    }
+
+    .centrale {
+        z-index: 999;
+        
+        h1 {
+            text-align: center;
+            color: rgb(221, 132, 7);
+            font-size: 70px;
+        }
+
+        h3 {
+            text-align: center;
+            color: #212529;
+            font-size: 45px;
+            margin-bottom: 10px;
+            margin-top: 20px;
+        }
+
+        .btn {
+            margin-top: 20px;
+
+            button {
+                width: 350px;
+                height: 60px;
+                margin-left: 25px;
+                margin-right: 25px;
+                border-radius: 15px;
+                padding: 10px 15px 5px 15px;
+                border: 3px solid rgb(221, 132, 7);
+                transition:  width 0.8s;
+                background-color: #212529;
+
+                &:hover {
+                    width: 400px;
+                }
+
+                p {
+                    color: white;
+                    font-size: 25px;
+                    font-weight: 700;
+                }
+            }
+        }
+    }
+}
