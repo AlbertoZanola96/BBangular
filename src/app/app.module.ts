@@ -3,9 +3,9 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { CaseComponent } from './case/case.component';
 import { HomeComponent } from './home/home.component';
 import { AppartamentiComponent } from './appartamenti/appartamenti.component';
+import { CaseComponent } from './bloccoCase/case/case.component';
 
 @NgModule({
   declarations: [

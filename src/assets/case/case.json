@@ -1,0 +1,82 @@
+[
+  {
+    "casaId": 1,
+    "tipoCasa": "villa",
+    "metriQuadrati": "400 Mq",
+    "descrizione": "Vendiamo affascinante e particolare abitazione di ampia metratura In ex contesto industriale, con tranquillissimi affacci interni, l'abitazione si sviluppa su due livelli ed è congeniale per chi desidera spazi versatili e polifunzionali. Al piano terra ci sono due delle tre camere da letto, tripli servizi con lavanderia oltre ad un ampio locale con ingresso indipendente e bagno, attualmente utilizzato come ufficio (comodossimo per lo smart working). Due comode scale lineari conducono al primo piano e rispettivamente: la prima alla zona notte padronale con studio, guardaroba, ampio bagno e fascinosa camera da letto al piano soppalco mansardato; la seconda scala conduce all'ampia e luminosissima zona living con vetrate a shed così costituita: ampia cucina a vista e soggiorno, con area TV al piano soppalco mansardato. Pavimentazione in parquet, aria condizionata, finiture dei bagni in marmo di Carrara. Assolutamente da vedere!",
+    "prezzo": 450000.00,
+    "imageUrl": "assets/images/rastrello.png"
+  },
+  {
+    "casaId": 2,
+    "tipoCasa": "bifamigliare",
+    "metriQuadrati": "250 Mq",
+    "descrizione": "A pochi minuti dalla linea MM2 P. za Abbiategrasso, dalle linee tramviarie 3 e 15, proponiamo in vendita bifamigliare di circa 250 mq la casa è cosi composta: ingresso, soggiorno con loggia, cucina abitabile, due bagni di cui uno finestrato, due camere da letto, ripostiglio e balcone. La peculiarità di questo immobile è certamente la luminosità che tutte le stanze ricevono. Completano la soluzione cantina e box.",
+    "prezzo": 250000.00,
+    "imageUrl": "assets/images/carrello_da_giardino.png"
+  },
+  {
+    "casaId": 3,
+    "tipoCasa": "baita",
+    "metriQuadrati": "180 Mq",
+    "descrizione": "In zona semi centrale, proponiamo in vendita abitazione cielo-terra divisa in due livelli: al piano terra ingresso e soggiorno con zona cottura. Al piano primo camera matrimoniale, disimpegno, camera singola, bagno e ripostiglio. L’immobile, recentemente ristrutturato, si presenta in ottimo stato abitativo, già termo autonomo a gas metano. È la casa perfetta per una coppia o una famiglia che desidera la comodità a pochi passi dal centro, senza rinunciare alla tranquillità dei paesaggi di montagna che caratterizzano la cittadina di Ateleta.",
+    "prezzo": 300000.00,
+    "imageUrl": "assets/images/martello.png"
+  },
+  {
+    "casaId": 4,
+    "tipoCasa": "vialla a schiera",
+    "metriQuadrati": "200 Mq",
+    "descrizione": "",
+    "prezzo": 180000.00,
+    "imageUrl": "assets/images/seghetto.png"
+  },
+  {
+    "casaId": 5,
+    "tipoCasa": "villa",
+    "metriQuadrati": "450 Mq",
+    "descrizione": "",
+    "prezzo": 590000.00,
+    "imageUrl": "assets/images/xbox.png"
+  },
+  {
+    "casaId": 6,
+    "tipoCasa": "villa",
+    "metriQuadrati": "330 Mq",
+    "descrizione": "",
+    "prezzo": 380000.00,
+    "imageUrl": "assets/images/seghetto.png"
+  },  
+  {
+    "casaId": 7,
+    "tipoCasa": "baita",
+    "metriQuadrati": "220 Mq",
+    "descrizione": "",
+    "prezzo": 120000.00,
+    "imageUrl": "assets/images/seghetto.png"
+  },  
+  {
+    "casaId": 8,
+    "tipoCasa": "bifamigliare",
+    "metriQuadrati": "190 Mq",
+    "descrizione": "",
+    "prezzo": 120000.00,
+    "imageUrl": "assets/images/seghetto.png"
+  },  
+  {
+    "casaId": 9,
+    "tipoCasa": "vialla a schiera",
+    "metriQuadrati": "240 Mq",
+    "descrizione": "",
+    "prezzo": 240000.00,
+    "imageUrl": "assets/images/seghetto.png"
+  },  
+  {
+    "casaId": 10,
+    "tipoCasa": "villa",
+    "metriQuadrati": "360 Mq",
+    "descrizione": "",
+    "prezzo": 300000.00,
+    "imageUrl": "assets/images/seghetto.png"
+  }
+]
