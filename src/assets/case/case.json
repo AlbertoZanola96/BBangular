@@ -11,7 +11,7 @@
     "casaId": 2,
     "tipoCasa": "bifamigliare",
     "metriQuadrati": "250 Mq",
-    "descrizione": "A pochi minuti dalla linea MM2 P. za Abbiategrasso, dalle linee tramviarie 3 e 15, proponiamo in vendita bifamigliare di circa 250 mq la casa è cosi composta: ingresso, soggiorno con loggia, cucina abitabile, due bagni di cui uno finestrato, due camere da letto, ripostiglio e balcone. La peculiarità di questo immobile è certamente la luminosità che tutte le stanze ricevono. Completano la soluzione cantina e box.",
+    "descrizione": "Proponiamo in vendita bifamigliare di circa 250 mq la casa è cosi composta: ingresso, soggiorno con loggia, cucina abitabile, due bagni di cui uno finestrato, due camere da letto, ripostiglio e balcone. La peculiarità di questo immobile è certamente la luminosità che tutte le stanze ricevono. Completano la soluzione cantina e box.",
     "prezzo": 250000.00,
     "imageUrl": "assets/images/carrello_da_giardino.png"
   },
@@ -19,7 +19,7 @@
     "casaId": 3,
     "tipoCasa": "baita",
     "metriQuadrati": "180 Mq",
-    "descrizione": "In zona semi centrale, proponiamo in vendita abitazione cielo-terra divisa in due livelli: al piano terra ingresso e soggiorno con zona cottura. Al piano primo camera matrimoniale, disimpegno, camera singola, bagno e ripostiglio. L’immobile, recentemente ristrutturato, si presenta in ottimo stato abitativo, già termo autonomo a gas metano. È la casa perfetta per una coppia o una famiglia che desidera la comodità a pochi passi dal centro, senza rinunciare alla tranquillità dei paesaggi di montagna che caratterizzano la cittadina di Ateleta.",
+    "descrizione": "Antica baita del 600 interamente ristrutturata e composta da: a piano terra: portico, ingresso, soggiorno/cucina, ripostiglio, bagno e centrale termica, scala interna di accesso al primo piano composto da ampio locale aperto dove è possibile creare tre camere e un piccolo bagno, esternamente una legnaia e 4700 mq di prato. Finiture di pregio, zona giorno con riscaldamento a pavimento e parquet in assi di larice a tutta lunghezza e pareti in abete, bagno con pavimento e pareti in pietra, zona notte con pavimento larice e pareti in cirmolo. Serramenti esterni in larice e doppio vetro. Riscaldamento con caldaia a pellet e stufa a olle. Tetto in larice con isolazione termica e copertura in tegole. Accessibile da strada forestale di 500 m percorribile con fuoristrada.",
     "prezzo": 300000.00,
     "imageUrl": "assets/images/martello.png"
   },
@@ -27,7 +27,7 @@
     "casaId": 4,
     "tipoCasa": "vialla a schiera",
     "metriQuadrati": "200 Mq",
-    "descrizione": "",
+    "descrizione": "Vendesi villetta a schiera finale, di recente costruzione su quattro livelli in ottime condizioni di manutenzione. Corredata da giardino e resede pavimentata su tre lati, da due posti auto all'interno della recinzione e quattro esterni. Dotata di impianto fotovoltaico. Al piano terra troviamo un ampia zona giorno adibita a soggiorno, zona pranzo, angolo cottura e bagno. Al piano interrato ampia taverna con caminetto. Al primo piano camera, cameretta e bagno.",
     "prezzo": 180000.00,
     "imageUrl": "assets/images/seghetto.png"
   },
@@ -35,7 +35,7 @@
     "casaId": 5,
     "tipoCasa": "villa",
     "metriQuadrati": "450 Mq",
-    "descrizione": "",
+    "descrizione": "La villa gode di un importante viale di ingresso privato che le permette una posizione tranquilla e riservata, lontana dalla strada principale, pur essendo vicina a tutti i servizi. Dislocata su tre livelli, al piano terra ampio atrio di ingresso, disimpegno, cucina abitabile, sala da pranzo, ampio salone, tre camere da letto, tre bagni, vano lavanderia e ripostiglio Al primo piano secondo salone, quattro camere da letto molto ampie, quattro bagni e terrazza di circa 70 mq. Al piano secondo, sottotetto con altezze variabili da 2,74 mt a 5,20 mt, con importanti travi a vista e diviso in sette locali ad uso hobby. A completare la proprietà una comoda depandance in fabbricato distaccato di circa 90 mq con due camere e bagno.",
     "prezzo": 590000.00,
     "imageUrl": "assets/images/xbox.png"
   },
@@ -43,7 +43,7 @@
     "casaId": 6,
     "tipoCasa": "villa",
     "metriQuadrati": "330 Mq",
-    "descrizione": "",
+    "descrizione": "A te che hai sempre sognato di unire la tua famiglia! Eccoti una casa singola che si sviluppa su pianta regolare con due appartamenti indipendenti di 120mq cadauno. Il primo a piano rialzato e l’altro a piano primo, sono caratterizzati da una quadrupla esposizione totalmente esterna che garantisce una luminosità straordinaria e una percezione complessiva di grande ariosità. Tanti spazi accessori da sfruttare come la cantina, il solaio, il portico. Altro punto forte è la zona… tranquilla e nello stesso tempo una delle zone più servite dai principali servizi che il paese offre.",
     "prezzo": 380000.00,
     "imageUrl": "assets/images/seghetto.png"
   },  
@@ -51,7 +51,7 @@
     "casaId": 7,
     "tipoCasa": "baita",
     "metriQuadrati": "220 Mq",
-    "descrizione": "",
+    "descrizione": "A poca distanza dalla località turistica di Faggeto Lario, sulla sponda orientale del Lago di Como, proponiamo una bellissima baita ristrutturata ed in ottime condizioni. La baita, immersa nel verde dei boschi e dotata di grandissima privacy, offre una vista panoramica di 180 gradi sulle montagne circostanti. Completa un terreno privato di 2000mq che circonda l’intera proprietà e che ne aumenta tranquillità e relax offerti.",
     "prezzo": 120000.00,
     "imageUrl": "assets/images/seghetto.png"
   },  
@@ -59,7 +59,7 @@
     "casaId": 8,
     "tipoCasa": "bifamigliare",
     "metriQuadrati": "190 Mq",
-    "descrizione": "",
+    "descrizione": "Castelfranco, zona Salvarosa, proponiamo una bifamiliare di nuova costruzione in una zona residenziale tranquilla ed ariosa. Disposta su due livelli ha buoni spazi abitativi e finiture moderne da personalizzare. Tecnologia in classe A4 e piacevoli giardini soleggiati.",
     "prezzo": 120000.00,
     "imageUrl": "assets/images/seghetto.png"
   },  
@@ -67,7 +67,7 @@
     "casaId": 9,
     "tipoCasa": "vialla a schiera",
     "metriQuadrati": "240 Mq",
-    "descrizione": "",
+    "descrizione": "in esclusiva villa a schiera in ottimo stato tre livelli composta come segue: al piano terra troviamo una prima porzione di giardino privato, ingresso, soggiorno ampio, cucina abitabile con accesso alla seconda parte del giardino privato, bagno finestrato e scale che conducono all'ampia taverna al piano interrato. Adiacente alla porta d'ingresso troviamo un'altra rampa di scale che porta al secondo piano in cui troviamo le tre camere da letto e un bagno anch'esso finestrato. Salendo ancora troviamo la mansarda molto godibile e con spazio sufficiente da essere attrezzata come una piccola palestra o come sala studio. A completare la soluzione troviamo il box doppio e la cantina di pertinenza.",
     "prezzo": 240000.00,
     "imageUrl": "assets/images/seghetto.png"
   },  
@@ -75,7 +75,7 @@
     "casaId": 10,
     "tipoCasa": "villa",
     "metriQuadrati": "360 Mq",
-    "descrizione": "",
+    "descrizione": "Inserita in signore contesto ed in zona collinare a soli 2 km dal lago di Garda e dai paesi di Desenzano d/G e Padenghe s/G, posizione tranquilla e riservata, proponiamo esclusiva villa singola dal Design moderno e di nuovissima costruzione con stupenda vista lago. La villa, costruita con le ultime tecnologie costruttive ed impiantistiche tali da portarla in classificazione energetica A4 Passivhouse, è attorniata da un bellissimo giardino a prato inglese sapientemente piantumato al cui interno è stata realizzata la scenografica piscina con zona a spiaggia idromassaggio e prendisole.",
     "prezzo": 300000.00,
     "imageUrl": "assets/images/seghetto.png"
   }
